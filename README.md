@@ -26,37 +26,11 @@ Stores recent translations and favorites locally with Hive.
 
 Preview:
 
-<img src="assets/screenshots/screen1.png" width="500">
-<img src="assets/screenshots/screen2.png" width="500">
-<img src="assets/screenshots/screen3.png" width="500">
+<p align="left">
+  <img src="./assets/screenshots/screen1.png" width="500" alt="screen1" />
+  <br />
+  <img src="./assets/screenshots/screen2.png" width="500" alt="screen2" />
+  <br />
+  <img src="./assets/screenshots/screen3.png" width="500" alt="screen3" />
+</p>
 
-
----
-
-## Project Structure
-
-lib/
-├── main.dart
-├── app_shell.dart
-│
-├── settings/
-│ └── settings_service.dart
-│
-└── translate/
-├── translate_screen.dart
-├── yandex_translate_service.dart
-├── translation_service.dart
-├── translation_models.dart
-│
-├── models/
-│ ├── lang.dart
-│ └── translation_history_item.dart
-│
-├── screens/
-│ ├── favorites_screen.dart
-│ └── translation_storage.dart
-│
-└── widgets/
-├── card_container_widget.dart
-├── recent_translation_card.dart
-└── translation_detail_sheet.dart

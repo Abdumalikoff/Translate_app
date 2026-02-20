@@ -26,8 +26,9 @@ Stores recent translations and favorites locally with Hive.
 
 Preview:
 
-![screen1](assets/screenshots/screenshot1.png)
-![screen2](assets/screenshots/screenshot2.png)
+<img src="assets/screenshots/screen1.png" width="500">
+<img src="assets/screenshots/screen2.png" width="500">
+<img src="assets/screenshots/screen3.png" width="500">
 
 
 ---

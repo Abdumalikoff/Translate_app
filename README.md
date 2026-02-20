@@ -27,10 +27,10 @@ Stores recent translations and favorites locally with Hive.
 Preview:
 
 <p align="left">
-  <img src="./assets/screenshots/screen1.png" width="500" alt="screen1" />
+  <img src="./assets/screenshots/screenshot1.png" width="500" alt="screen1" />
   <br />
-  <img src="./assets/screenshots/screen2.png" width="500" alt="screen2" />
+  <img src="./assets/screenshots/screenshot2.png" width="500" alt="screen2" />
   <br />
-  <img src="./assets/screenshots/screen3.png" width="500" alt="screen3" />
+  
 </p>
 

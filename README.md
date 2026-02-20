@@ -25,8 +25,8 @@ Stores recent translations and favorites locally with Hive.
 ## Screenshots
 
 <p>
-  <img src="./assets/screenshots/Screenshot1.png" width="260" alt="Screenshot 1" />
-  <img src="./assets/screenshots/Screenshot2.png" width="260" alt="Screenshot 2" />
+  <img src="./assets/screenshots/screenshot1.png" width="260" alt="Screenshot 1" />
+  <img src="./assets/screenshots/screenshot2.png" width="260" alt="Screenshot 2" />
 
 </p>
 

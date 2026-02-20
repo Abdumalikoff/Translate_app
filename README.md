@@ -24,13 +24,14 @@ Stores recent translations and favorites locally with Hive.
 
 ## Screenshots
 
-Preview:
+<p>
+  <img src="./assets/screenshots/Screenshot1.png" width="260" alt="Screenshot 1" />
+  <img src="./assets/screenshots/Screenshot2.png" width="260" alt="Screenshot 2" />
 
-<p align="left">
-  <img src="./assets/screenshots/screenshot1.png" width="500" alt="screen1" />
-  <br />
-  <img src="./assets/screenshots/screenshot2.png" width="500" alt="screen2" />
-  <br />
-  
 </p>
 
+<p>
+  <b>Screenshot1</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Screenshot2</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Screenshot3</b>
+</p>

@@ -1,5 +1,5 @@
 import 'package:ezzy/app_shell.dart';
-import 'package:ezzy/translate/translate_screen.dart';
+
 import 'package:flutter/material.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 

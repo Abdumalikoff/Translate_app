@@ -1,4 +1,3 @@
-import 'package:ezzy/translate/widgets/card_container_widget.dart';
 import 'package:flutter/material.dart';
 
 class RecentTranslationWidget extends StatelessWidget {

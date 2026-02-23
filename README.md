@@ -24,13 +24,26 @@ Stores recent translations and favorites locally with Hive.
 
 ## Screenshots
 
-<p>
-  <img src="./assets/screenshots/screenshot1.png" width="260" alt="Screenshot 1" />
-  <img src="./assets/screenshots/screenshot2.png" width="260" alt="Screenshot 2" />
-
+<!-- Row 1 -->
+<p align="left">
+  <img src="./assets/screenshots/screenshot1.png" width="260" alt="Screenshot 1" style="margin-right: 12px;" />
+  <img src="./assets/screenshots/screenshot2.png" width="260" alt="Screenshot 2" style="margin-right: 12px;" />
+  <img src="./assets/screenshots/screenshot3.png" width="260" alt="Screenshot 3" />
+</p>
+<p align="left">
+  <span style="display:inline-block; width:260px; text-align:center; margin-right:12px;"><b>Screenshot 1</b></span>
+  <span style="display:inline-block; width:260px; text-align:center; margin-right:12px;"><b>Screenshot 2</b></span>
+  <span style="display:inline-block; width:260px; text-align:center;"><b>Screenshot 3</b></span>
 </p>
 
-<p>
-  <b>Screenshot1</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Screenshot2</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br/>
+
+<!-- Row 2 -->
+<p align="left">
+  <img src="./assets/screenshots/screenshot4.png" width="260" alt="Screenshot 4" style="margin-right: 12px;" />
+  <img src="./assets/screenshots/screenshot5.png" width="260" alt="Screenshot 5" />
+</p>
+<p align="left">
+  <span style="display:inline-block; width:260px; text-align:center; margin-right:12px;"><b>Screenshot 4</b></span>
+  <span style="display:inline-block; width:260px; text-align:center;"><b>Screenshot 5</b></span>
 </p>

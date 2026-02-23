@@ -33,5 +33,4 @@ Stores recent translations and favorites locally with Hive.
 <p>
   <b>Screenshot1</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <b>Screenshot2</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Screenshot3</b>
 </p>
